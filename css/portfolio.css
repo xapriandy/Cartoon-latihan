@@ -1,0 +1,23 @@
+body{
+	margin: ;
+}
+
+Header{
+	background-color: #264653;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+Header h1{
+	color: whitesmoke;
+
+}
+
+Header img{
+	border-radius: 100px;
+    width: 300px;
+    border: 10px
+ 	solid #2a9d8f;
+}
